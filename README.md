@@ -48,11 +48,11 @@ Seja bem-vindo! Espero que os projetos aqui publicados demonstrem minha dedicaç
 
 <p align="center">
   <img
-    height="180em"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api?username=ectorvinicius7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img
-    height="180em"
+    width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ectorvinicius7&theme=tokyonight&layout=compact&custom_title=Tecnologias"
   />
 </p>
