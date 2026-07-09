@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9466ff&height=120&section=header"/>
 
-# 👨🏽‍💻 Ector Vinícius
-**`Desenvolvedor`**
+# 👨🏽‍💻 Ector Vinícius 
+**`Desenvolvedor Backend em Formação`**
 
 Meu nome é Ector Vinícius, sou natural de Paulo Afonso, Bahia, e atualmente curso Análise e Desenvolvimento de Sistemas na Uniasselvi.
 
-Tenho interesse por desenvolvimento de software e acredito que a melhor forma de aprender é colocando a mão na massa. Por isso, utilizo este perfil para compartilhar meus projetos, desafios acadêmicos e minha evolução como desenvolvedor.
+Tenho interesse em desenvolvimento backend com Python e busco evoluir continuamente por meio da prática. Neste perfil compartilho projetos pessoais, desafios acadêmicos e estudos que demonstram minha evolução como desenvolvedor.
 
-Seja bem-vindo! Espero que os projetos aqui publicados demonstrem minha dedicação, meu aprendizado contínuo e minha paixão por tecnologia.
+Fique à vontade para explorar meus repositórios!
 
 ---
 
@@ -54,6 +54,13 @@ Seja bem-vindo! Espero que os projetos aqui publicados demonstrem minha dedicaç
   <img
     width="49%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ectorvinicius7&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ectorvinicius7&theme=tokyo-night"
   />
 </p>
 
