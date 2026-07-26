@@ -64,6 +64,8 @@ Fique à vontade para explorar meus repositórios!
   />
 </p>
 
+![Visitors](https://komarev.com/ghpvc/?username=ectorvinicius7&label=Visualizações&color=0e75b6&style=flat)
+
 <br/>
 
 
