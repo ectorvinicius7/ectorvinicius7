@@ -64,7 +64,7 @@ Fique à vontade para explorar meus repositórios!
   />
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ectorvinicius7)
+![VISITAS](https://komarev.com/ghpvc/?username=ectorvinicius7&label=VISITAS&color=9466ff&style=for-the-badge)
 
 <br/>
 
