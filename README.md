@@ -39,6 +39,26 @@ Fique à vontade para explorar meus repositórios!
     style="padding-right: 10px;"  
 />  
 
+<img
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+    align="left" 
+    alt="DJango" 
+    title="DJango"
+    width="30px" 
+    style="padding-right: 10px;"
+/>
+
+<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"     
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;"
+/>
+
+
+
 <br/>
 <br/>
 
